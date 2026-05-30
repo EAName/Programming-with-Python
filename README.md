@@ -24,7 +24,7 @@ Northwestern University M.S. in Data Science (Data Engineering specialization): 
 - **Object-oriented programming:** class definitions, attributes, methods, instances (Circle and related examples) (`Classes_and_Objects.ipynb`)
 - **Capstone EDA project:** multi-source police violence datasets (Fatal Encounters, Mapping Police Violence, FBI National Use-of-Force); PDF table extraction (`tabula`); data harmonization, profiling, and demographic analysis notebook (`Crowd_Sourcing_Police_Violence.ipynb`)
 
-**Data dependencies:** beer review CSVs, hotel JSON, police violence CSVs, and FBI extracts referenced in notebooks are not all bundled in the repository [VERIFY which data files are required locally vs. downloaded during assignment]
+**Data dependencies:** beer review CSVs, hotel JSON, police violence CSVs, and FBI extracts referenced in notebooks are not all bundled in the repository
 
 **Out of scope for this repo:** algorithm analysis coursework (see **Data-Engineering-Algorithms**); inferential statistics in R (see **Statistics**); cloud-scale ingestion (see **Systems-Engineering**, **Data-Miners**); production web services (see **Analytics-Applications-Engineering**).
 
