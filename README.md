@@ -26,8 +26,6 @@ Northwestern University M.S. in Data Science (Data Engineering specialization): 
 
 **Data dependencies:** beer review CSVs, hotel JSON, police violence CSVs, and FBI extracts referenced in notebooks are not all bundled in the repository
 
-**Out of scope for this repo:** algorithm analysis coursework (see **Data-Engineering-Algorithms**); inferential statistics in R (see **Statistics**); cloud-scale ingestion (see **Systems-Engineering**, **Data-Miners**); production web services (see **Analytics-Applications-Engineering**).
-
 ---
 
 ## 3. Stack
