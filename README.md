@@ -7,7 +7,7 @@ Graduate coursework in Python programming fundamentals, data structures, file I/
 ## 1. Title and Summary
 
 **Programming with Python**  
-Northwestern University M.S. in Data Science (Data Engineering specialization): build Python fluency from syntax and control flow through pandas EDA, multi-format file handling, NLP-style text analytics, OOP, and a multi-phase capstone analyzing crowd-sourced police use-of-force datasets.
+Northwestern University M.S. in Data Science, Data Engineering specialization: build Python fluency from syntax and control flow through pandas EDA, multi-format file handling, NLP-style text analytics, OOP, and a multi-phase applied EDA project on crowd-sourced police use-of-force datasets.
 
 ---
 
@@ -22,7 +22,7 @@ Northwestern University M.S. in Data Science (Data Engineering specialization): 
 - **Text processing and sentiment:** nested dict/JSON parsing (TripAdvisor hotel reviews); `Counter`, regex (`re`), NLTK stopwords/bigrams; TextBlob polarity on review sentences (`Program_Structure_Text_Processing_File_IO_Sentiment_Analysis.ipynb`)
 - **Error handling:** `try`/`except`/`else`/`finally`; specific vs. generic exceptions; `raise`; logging with tracebacks; SQLite connection demo with guarded resource cleanup (`Functions_Handlind_Errors_Data_Structures.ipynb`)
 - **Object-oriented programming:** class definitions, attributes, methods, instances (Circle and related examples) (`Classes_and_Objects.ipynb`)
-- **Capstone EDA project:** multi-source police violence datasets (Fatal Encounters, Mapping Police Violence, FBI National Use-of-Force); PDF table extraction (`tabula`); data harmonization, profiling, and demographic analysis notebook (`Crowd_Sourcing_Police_Violence.ipynb`)
+- **Applied EDA project:** multi-source police violence datasets (Fatal Encounters, Mapping Police Violence, FBI National Use-of-Force); PDF table extraction (`tabula`); data harmonization, profiling, and demographic analysis notebook (`Crowd_Sourcing_Police_Violence.ipynb`)
 
 **Data dependencies:** beer review CSVs, hotel JSON, police violence CSVs, and FBI extracts referenced in notebooks are not all bundled in the repository
 
@@ -38,7 +38,7 @@ Northwestern University M.S. in Data Science (Data Engineering specialization): 
 | Visualization | matplotlib, seaborn, plotly |
 | Text / NLP | NLTK, TextBlob, `re`, `collections.Counter` |
 | File formats | CSV, JSON, TXT, XLSX (`xlsxwriter`), SQLite |
-| PDF parsing | tabula (capstone) |
+| PDF parsing | tabula (final module) |
 | Standard library | `math`, `json`, `logging`, `sqlite3`, `string`, `itertools` |
 
 ---
@@ -60,7 +60,7 @@ Programming-with-Python/
 └── README.md
 ```
 
-- **Organization:** ten module notebooks progressing from language basics to applied EDA and capstone; beer-review thread spans Modules 5–6; police-violence project is standalone
+- **Organization:** ten module notebooks progressing from language basics to applied EDA and final module project; beer-review thread spans Modules 5–6; police-violence project is standalone
 - **Reusable modules:** none packaged; helper functions and OOP classes defined inline per assignment
 - **Engineering practice:** defensive input handling, structured exception paths, multi-format ingestion, reproducible EDA with saved intermediate datasets, sentiment and token-frequency analysis over semi-structured JSON
 
