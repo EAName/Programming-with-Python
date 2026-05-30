@@ -1,6 +1,6 @@
 # Programming-with-Python
 
-Graduate coursework in Python programming fundamentals, data structures, file I/O, exploratory analysis, text processing, and object-oriented design through sequential Jupyter modules (MSDS 430).
+Graduate coursework in Python programming fundamentals, data structures, file I/O, exploratory analysis, text processing, and object-oriented design through sequential Jupyter modules.
 
 ---
 
@@ -66,5 +66,5 @@ Programming-with-Python/
 
 ---
 
-**Course context:** Northwestern University, M.S. in Data Science, Data Engineering specialization (MSDS 430)  
+**Course context:** Northwestern University, M.S. in Data Science, Data Engineering specialization  
 **Repository:** https://github.com/EAName/Programming-with-Python
