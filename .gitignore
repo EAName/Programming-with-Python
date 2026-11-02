@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+# local data and generated intermediates (not bundled)
+*.csv
+*.xlsx
+*.db
